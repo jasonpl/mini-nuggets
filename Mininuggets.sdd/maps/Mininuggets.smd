@@ -1,0 +1,136 @@
+[MAP]
+{
+	Description=Mininuggets - by poppuyo -- inspired by KaiserJ's Chicken variety.;
+	TidalStrength=20;
+	Gravity=100;
+	MaxMetal=1.0;
+
+	ExtractorRadius=70;
+	MapHardness=500;
+	
+	[ATMOSPHERE]
+	{
+		FogColor=0.7 0.7 0.8;
+		FogStart=0.2;
+
+		CloudColor=0.9 0.9 0.9;
+		SkyColor=0.1 0.15 0.7;
+
+		SunColor=1.0 1.0 1.0;
+		CloudDensity=0.55;
+
+		MinWind=6;
+		MaxWind=21;
+	}
+	[WATER]
+	{
+		WaterBaseColor=0.4 0.6 0.8;
+		WaterAbsorb=0.004 0.004 0.002;
+
+		WaterMinColor=0.1 0.1 0.3;
+	}
+	[LIGHT]
+	{
+		SunDir=0 1 2;
+		
+		GroundAmbientColor=0.4 0.4 0.4;
+		GroundSunColor=0.7 0.7 0.7;
+
+		GroundShadowDensity=0.8;
+
+		UnitAmbientColor=0.3 0.3 0.3;
+		UnitSunColor=0.8 0.8 0.8;
+		UnitShadowDensity=0.8;
+
+	}
+[TEAM0]
+	{
+		StartPosX=600;
+		StartPosZ=600;
+	}
+[TEAM1]
+	{
+		StartPosX=600;
+		StartPosZ=800;
+	}
+[TEAM2]
+	{
+		StartPosX=600;
+		StartPosZ=800;
+	}
+[TEAM3]
+	{
+		StartPosX=600;
+		StartPosZ=800;
+	}
+[TEAM4]
+	{
+		StartPosX=600;
+		StartPosZ=800;
+	}
+[TEAM5]
+	{
+		StartPosX=600;
+		StartPosZ=800;
+	}
+[TEAM6]
+	{
+		StartPosX=600;
+		StartPosZ=800;
+	}
+[TEAM7]
+	{
+		StartPosX=600;
+		StartPosZ=800;
+	}
+[TEAM8]
+	{
+		StartPosX=600;
+		StartPosZ=800;
+	}
+[TEAM9]
+	{
+		StartPosX=600;
+		StartPosZ=800;
+	}
+[TEAM10]
+	{
+		StartPosX=600;
+		StartPosZ=800;
+	}
+[TEAM11]
+	{
+		StartPosX=600;
+		StartPosZ=800;
+	}
+[TEAM12]
+	{
+		StartPosX=600;
+		StartPosZ=800;
+	}
+[TEAM13]
+	{
+		StartPosX=600;
+		StartPosZ=800;
+	}
+[TEAM14]
+	{
+		StartPosX=600;
+		StartPosZ=800;
+	}
+[TEAM15]
+	{
+		StartPosX=600;
+		StartPosZ=800;
+	}
+	[TERRAINTYPE0]
+	{
+		name=default;
+		hardness=1;
+		tankmovespeed=1;
+		kbotmovespeed=1;
+		hovermovespeed=1;
+		shipmovespeed=1;
+
+	}
+}
